@@ -1,6 +1,8 @@
 # **Apex Kernel v2.0 : "The Skirmisher"**
 **Release Date:** July 4, 2026
+
 **Target Device:** Realme 8i / Narzo 50 (spaced)
+
 **Developer:** DΞΞZNUTZ | @daizeuz-dred
 ---
 # 🤝🏻 **Buy me a coffee?**
