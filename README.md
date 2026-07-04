@@ -1,3 +1,6 @@
+<img width="4096" height="2304" alt="Picsart_26-07-04_10-05-35-870" src="https://github.com/user-attachments/assets/f02b5112-13ea-465f-aeda-961098bb8fa9" />
+
+
 # **Apex Kernel v2.0 : "The Skirmisher"**
 ### **Release Date:** July 4, 2026
 
@@ -14,7 +17,7 @@
 * **KernelSU-Next v3 Integration:** Imported KernelSU-Next v3.2.0-legacy-susfs-v2 bundled with SUSFS v2.2.0 for advanced root management.
 * **SUSFS Hook Wiring:** Implemented SUSFS hooks across VFS, proc, devpts, and SELinux for stable stealth-root operation.
 * **Submodule Sync:** Updated KernelSU-Next submodule pointer to resolve version and UAPI mismatches.
-* **Config Enablement:** Enabled KSU, SUSFS, and all related feature flags in `spaced_defconfig`.
+* **Config Enablement:** Enabled KSU, SUSFS, and all related feature flags.
 
 ### **🌐 Networking**
 * **TCP Buffer Tuning:** Increased TCP buffer sizes across the stack for improved network throughput.
