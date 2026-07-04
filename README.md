@@ -15,8 +15,6 @@
 
 ### **🛡️ Security & Root**
 * **KernelSU-Next v3 Integration:** Imported KernelSU-Next v3.2.0-legacy-susfs-v2 bundled with SUSFS v2.2.0 for advanced root management.
-* **SUSFS Hook Wiring:** Implemented SUSFS hooks across VFS, proc, devpts, and SELinux for stable stealth-root operation.
-* **Submodule Sync:** Updated KernelSU-Next submodule pointer to resolve version and UAPI mismatches.
 * **Config Enablement:** Enabled KSU, SUSFS, and all related feature flags.
 
 ### **🌐 Networking**
