@@ -14,7 +14,7 @@
 ---
 
 ### **🛡️ Security & Root**
-* **KernelSU-Next v3 Integration:** Imported KernelSU-Next v3.2.0-legacy-susfs-v2 bundled with SUSFS v2.2.0 for advanced root management.
+* **KernelSU-Next v3 Integration:** Imported KernelSU-Next v3.3.0-legacy-susfs-v2 bundled with SUSFS v2.2.0 for advanced root management.
 * **Config Enablement:** Enabled KSU, SUSFS, and all related feature flags.
 
 ### **🌐 Networking**
