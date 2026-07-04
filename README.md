@@ -35,4 +35,4 @@
 
 ---
 
-**Note:** Flash via compatible recovery.
+# **Note:** Flash via compatible recovery.
